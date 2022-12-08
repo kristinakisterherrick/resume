@@ -10,8 +10,7 @@
 ----
 ## Experience ##
 
-# Qualcomm #
-----------
+### Qualcomm ###
 *Full-time - 17 yrs*
 
 **Staff Software Engineer**
@@ -77,7 +76,7 @@ Java Spring web-app developer, GUI design and implementation, SQL server, databa
 
 Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologies, Object-Oriented Programming (OOP)
 
-# LTX-Credence (formerly IMS) #
+### LTX-Credence (formerly IMS) ###
 *Jun 2001 - Oct 2005 · 4 yrs 6 mo*
 
 *Hillsboro, Oregon, United States*
