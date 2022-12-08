@@ -1,7 +1,7 @@
-### Kristina Herrick 
-# kristinaherrick@gmail.com 
-# 858-945-3087
-------------
+### Kristina Herrick ###
+# kristinaherrick@gmail.com #
+# 858-945-3087 #
+
 ----
 > Engineering professional with extensive experience in developing secure, scalable software solutions. 
 > Significant hands-on technical leadership and management responsibilities with ability to effectively 
@@ -36,9 +36,9 @@ Skills: codeql, Object-Oriented Prog:ramming (OOP), C++, Embedded Software
 
 Windows Driver Developer
 
-*Jan 2010 - Jul 2022 · 12 yrs 7 mos
+*Jan 2010 - Jul 2022 · 12 yrs 7 mos*
 
-*San Diego, California, United States
+*San Diego, California, United States*
 
 Introduced off-target testing in Windows kernel mode to the organization, leading to broad acceptance, 
 significant reduction in bugs found, and reduced turn-around when adding new features. Created an 
@@ -51,38 +51,38 @@ C++ Driver Developer for multiple drivers on Windows always on devices and Windo
 
 Skills: Test Driven Development, Windows Driver Development, Kernel Drivers, C++, Agile Methodologies, Object-Oriented Programming (OOP), Embedded Software
 
-**Senior Software QA Engineer
+**Senior Software QA Engineer**
 
 Lead BrewMP Tools QA
 
-*Apr 2007 - Dec 2009 · 2 yrs 9 mos
+*Apr 2007 - Dec 2009 · 2 yrs 9 mos*
 
-*San Diego, California, United States
+*San Diego, California, United States*
 
 Pushed automation of GUI test scripts and created API test suites at multiple software layers in C# and 
 Java and Python. Lead for BrewMP device certification. Ran customer OEM training.
 
 Skills: Software Quality Assurance, Python (Programming Language), Java, C#
 
-**Software Engineer
+**Software Engineer**
 
 OmniTracks Full-stack Java developer
 
-*Oct 2005 - Mar 2007 · 1 yr 6 mos
+*Oct 2005 - Mar 2007 · 1 yr 6 mos*
 
-*Tigard, Oregon, United States
+*Tigard, Oregon, United States*
 
 Java Spring web-app developer, GUI design and implementation, SQL server, database implementation, 
 100% TDD unit test coverage, Agile sprints
 Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologies, Object-Oriented Programming (OOP)
 
-**Senior QA Software Engineer
+**Senior QA Software Engineer**
 
 LTX-Credence (formerly IMS)
 
-*Jun 2001 - Oct 2005 · 4 yrs 6 mo
+*Jun 2001 - Oct 2005 · 4 yrs 6 mo*
 
-*Hillsboro, Oregon, United States
+*Hillsboro, Oregon, United States*
 
 API software QA engineer, developing extensive Java test suites for full unit test and system test coverage.
 Skills: Bash, Solaris, Object-Oriented Programming (OOP), Linux, Java
