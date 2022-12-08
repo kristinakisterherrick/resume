@@ -8,7 +8,7 @@
 > mentor individuals in a variety of disciplines across an organization. Adept at Agile Methodologies 
 > and test-driven development.
 ----
-##Experience##
+## Experience ##
 ----------
 *Qualcomm*
 ----------
