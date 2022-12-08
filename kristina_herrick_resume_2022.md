@@ -8,17 +8,16 @@ Kristina Herrick
 ----
 Experience
 ----------
-Qualcomm
-Full-time · 17 yrs
+:Qualcomm
+:Full-time - 17 yrs
 
-Staff Software Engineer
-Head of Software Security for Windows Drivers on Snapdragon
-Aug 2022 - Present
-San Diego, California, United States
+:Staff Software Engineer
+:Head of Software Security for Windows Drivers on Snapdragon
+:Aug 2022 - Present
+:San Diego, California, United States
 
-CodeQL and PREFast static analysis, 
-strict coding guidelines and reviews, ensuring blacklisted security patches are pulled into all 
-branches and pushed to customers as required. (6 months)
+:CodeQL and PREFast static analysis, strict coding guidelines and reviews, ensuring blacklisted security 
+:patches are pulled into all branches and pushed to customers as required. (6 months)
 
 Lead and gate-keeper of extensive internal library that allows kernel-mode drivers to communicate 
 with each other and share secure and extensible code. Intensely scrutinized all changes for binary 
