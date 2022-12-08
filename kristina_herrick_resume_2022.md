@@ -82,6 +82,7 @@ Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologie
 *Jun 2001 - Oct 2005 · 4 yrs 6 mo*
 
 *Hillsboro, Oregon, United States*
+
 **Senior QA Software Engineer**
 
 API software QA engineer, developing extensive Java test suites for full unit test and system test coverage.
