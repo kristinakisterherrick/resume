@@ -8,8 +8,9 @@ Kristina Herrick
 ----
 Experience
 ----------
-:Qualcomm
-:Full-time - 17 yrs
+Qualcomm
+
+Full-time - 17 yrs
 
 :Staff Software Engineer
 :Head of Software Security for Windows Drivers on Snapdragon
