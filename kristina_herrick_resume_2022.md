@@ -6,8 +6,12 @@
 > Engineering professional with extensive experience in developing secure, scalable software solutions. 
 > Significant hands-on technical leadership and management responsibilities with ability to effectively 
 > mentor individuals in a variety of disciplines across an organization. Adept at Agile Methodologies 
-> and test-driven development.
+> and test-driven development. I am the most versatile and adaptive person you will ever meet.
 ----
+
+## Skills ##
+C++, C#, Java, Python, Embedded driver development on Windows ARM (KMDF, UMDF), Agile, Test-driven development, CodeQL, Object-oriented design, Software QA
+
 ## Experience ##
 
 ### Qualcomm ###
@@ -29,8 +33,6 @@ with each other and share secure and extensible code. Intensely scrutinized all 
 backward compatibility and clean, secure code. Created auto-generated C++ tests to police binary 
 backward compatibility using a combination of CodeQL and python. (2 years)
 
-Skills: codeql, Object-Oriented Prog:ramming (OOP), C++, Embedded Software
-
 **Staff Software Engineer**
 
 Windows Driver Developer
@@ -48,8 +50,6 @@ frameworks to automated build systems, integrated Bullseye test coverage into au
 C++ Driver Developer for multiple drivers on Windows always on devices and Windows Phone, including WMRil 
 (Windows Mobile Radio Interface Layer) enabling advanced 4G bands across international markets. (12 years)
 
-Skills: Test Driven Development, Windows Driver Development, Kernel Drivers, C++, Agile Methodologies, Object-Oriented Programming (OOP), Embedded Software
-
 **Senior Software QA Engineer**
 
 Lead BrewMP Tools QA
@@ -60,8 +60,6 @@ Lead BrewMP Tools QA
 
 Pushed automation of GUI test scripts and created API test suites at multiple software layers in C# and 
 Java and Python. Lead for BrewMP device certification. Ran customer OEM training.
-
-Skills: Software Quality Assurance, Python (Programming Language), Java, C#
 
 **Software Engineer**
 
