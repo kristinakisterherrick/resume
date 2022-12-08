@@ -1,5 +1,7 @@
-Kristina Herrick kristinaherrick@gmail.com 858-945-3087
-================
+### Kristina Herrick 
+# kristinaherrick@gmail.com 
+# 858-945-3087
+------------
 ----
 > Engineering professional with extensive experience in developing secure, scalable software solutions. 
 > Significant hands-on technical leadership and management responsibilities with ability to effectively 
@@ -9,11 +11,15 @@ Kristina Herrick kristinaherrick@gmail.com 858-945-3087
 Experience
 ----------
 *Qualcomm*
+
 *Full-time - 17 yrs*
 
 **Staff Software Engineer**
+
 Head of Software Security for Windows Drivers on Snapdragon
+
 *Aug 2022 - Present*
+
 *San Diego, California, United States*
 
 CodeQL and PREFast static analysis, strict coding guidelines and reviews, ensuring blacklisted security 
@@ -24,16 +30,15 @@ with each other and share secure and extensible code. Intensely scrutinized all 
 backward compatibility and clean, secure code. Created auto-generated C++ tests to police binary 
 backward compatibility using a combination of CodeQL and python. (2 years)
 
-Skills
-:codeql
-:Object-Oriented Programming (OOP)
-:C++
-:Embedded Software
+Skills: codeql, Object-Oriented Prog:ramming (OOP), C++, Embedded Software
 
-Staff Software Engineer
+**Staff Software Engineer**
+
 Windows Driver Developer
-Jan 2010 - Jul 2022 · 12 yrs 7 mos
-San Diego, California, United States
+
+*Jan 2010 - Jul 2022 · 12 yrs 7 mos
+
+*San Diego, California, United States
 
 Introduced off-target testing in Windows kernel mode to the organization, leading to broad acceptance, 
 significant reduction in bugs found, and reduced turn-around when adding new features. Created an 
@@ -44,46 +49,55 @@ frameworks to automated build systems, integrated Bullseye test coverage into au
 C++ Driver Developer for multiple drivers on Windows always on devices and Windows Phone, including WMRil 
 (Windows Mobile Radio Interface Layer) enabling advanced 4G bands across international markets. (12 years)
 
-Skills: Test Driven Development · Windows Driver Development · Kernel Drivers · C++ · Agile Methodologies
-Object-Oriented Programming (OOP) · Embedded Software
+Skills: Test Driven Development, Windows Driver Development, Kernel Drivers, C++, Agile Methodologies, Object-Oriented Programming (OOP), Embedded Software
 
-Senior Software QA Engineer
+**Senior Software QA Engineer
+
 Lead BrewMP Tools QA
-Apr 2007 - Dec 2009 · 2 yrs 9 mos
-San Diego, California, United States
+
+*Apr 2007 - Dec 2009 · 2 yrs 9 mos
+
+*San Diego, California, United States
+
 Pushed automation of GUI test scripts and created API test suites at multiple software layers in C# and 
 Java and Python. Lead for BrewMP device certification. Ran customer OEM training.
 
-Skills: Software Quality Assurance · Python (Programming Language) · Java · C#
+Skills: Software Quality Assurance, Python (Programming Language), Java, C#
 
-Software Engineer
+**Software Engineer
+
 OmniTracks Full-stack Java developer
-Oct 2005 - Mar 2007 · 1 yr 6 mos
-Tigard, Oregon, United States
+
+*Oct 2005 - Mar 2007 · 1 yr 6 mos
+
+*Tigard, Oregon, United States
 
 Java Spring web-app developer, GUI design and implementation, SQL server, database implementation, 
 100% TDD unit test coverage, Agile sprints
-Skills: Spring Framework · Test Driven Development · SQL · Java · Agile Methodologies · Object-Oriented Programming (OOP)
+Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologies, Object-Oriented Programming (OOP)
 
+**Senior QA Software Engineer
 
-Senior QA Software Engineer
 LTX-Credence (formerly IMS)
-Jun 2001 - Oct 2005 · 4 yrs 6 mo
-Hillsboro, Oregon, United States
+
+*Jun 2001 - Oct 2005 · 4 yrs 6 mo
+
+*Hillsboro, Oregon, United States
+
 API software QA engineer, developing extensive Java test suites for full unit test and system test coverage.
-Skills: Bash · Solaris · Object-Oriented Programming (OOP) · Linux · Java
+Skills: Bash, Solaris, Object-Oriented Programming (OOP), Linux, Java
 
 
 Education
 ----------
 2001
-BS Math, Computer Science
-Minor German Language
+ BS Math, Computer Science
+ Minor German Language
 
 Patents
 -------
 Methods and Apparatus for Peer-to-Peer Transfer of Secure Data using Near Field Communications
-US PCT/US2011/035642 · Filed May 10, 2010
+ US PCT/US2011/035642 · Filed May 10, 2010
 
 Interests
 ---------
