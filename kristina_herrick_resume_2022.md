@@ -1,4 +1,4 @@
-Kristina Herrick
+Kristina Herrick kristinaherrick@gmail.com 858-945-3087
 ================
 ----
 > Engineering professional with extensive experience in developing secure, scalable software solutions. 
@@ -8,24 +8,27 @@ Kristina Herrick
 ----
 Experience
 ----------
-Qualcomm
+*Qualcomm*
+*Full-time - 17 yrs*
 
-Full-time - 17 yrs
+**Staff Software Engineer**
+Head of Software Security for Windows Drivers on Snapdragon
+*Aug 2022 - Present*
+*San Diego, California, United States*
 
-:Staff Software Engineer
-:Head of Software Security for Windows Drivers on Snapdragon
-:Aug 2022 - Present
-:San Diego, California, United States
-
-:CodeQL and PREFast static analysis, strict coding guidelines and reviews, ensuring blacklisted security 
-:patches are pulled into all branches and pushed to customers as required. (6 months)
+CodeQL and PREFast static analysis, strict coding guidelines and reviews, ensuring blacklisted security 
+patches are pulled into all branches and pushed to customers as required. (6 months)
 
 Lead and gate-keeper of extensive internal library that allows kernel-mode drivers to communicate 
 with each other and share secure and extensible code. Intensely scrutinized all changes for binary 
 backward compatibility and clean, secure code. Created auto-generated C++ tests to police binary 
 backward compatibility using a combination of CodeQL and python. (2 years)
 
-Skills: codeql · Object-Oriented Programming (OOP) · C++ · Embedded Software
+Skills
+:codeql
+:Object-Oriented Programming (OOP)
+:C++
+:Embedded Software
 
 Staff Software Engineer
 Windows Driver Developer
