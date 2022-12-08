@@ -74,6 +74,7 @@ OmniTracks Full-stack Java developer
 
 Java Spring web-app developer, GUI design and implementation, SQL server, database implementation, 
 100% TDD unit test coverage, Agile sprints
+
 Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologies, Object-Oriented Programming (OOP)
 
 *LTX-Credence (formerly IMS)*
@@ -84,6 +85,7 @@ Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologie
 **Senior QA Software Engineer**
 
 API software QA engineer, developing extensive Java test suites for full unit test and system test coverage.
+
 Skills: Bash, Solaris, Object-Oriented Programming (OOP), Linux, Java
 
 
