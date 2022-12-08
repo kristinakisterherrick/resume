@@ -1,6 +1,6 @@
-### Kristina Herrick ###
-# kristinaherrick@gmail.com #
-# 858-945-3087 #
+# Kristina Herrick #
+### kristinaherrick@gmail.com ###
+### 858-945-3087 ###
 
 ----
 > Engineering professional with extensive experience in developing secure, scalable software solutions. 
@@ -76,13 +76,13 @@ Java Spring web-app developer, GUI design and implementation, SQL server, databa
 100% TDD unit test coverage, Agile sprints
 Skills: Spring Framework, Test Driven Development, SQL, Java, Agile Methodologies, Object-Oriented Programming (OOP)
 
-**Senior QA Software Engineer**
-
+----
 LTX-Credence (formerly IMS)
 
 *Jun 2001 - Oct 2005 · 4 yrs 6 mo*
 
 *Hillsboro, Oregon, United States*
+**Senior QA Software Engineer**
 
 API software QA engineer, developing extensive Java test suites for full unit test and system test coverage.
 Skills: Bash, Solaris, Object-Oriented Programming (OOP), Linux, Java
